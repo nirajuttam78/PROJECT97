@@ -1,0 +1,136 @@
+#contact iframe {
+	width: 100%;
+}
+
+.contact_1 h3 {
+	display: inline;
+}
+
+.contact_1 a {
+	text-shadow: none;
+}
+
+input {
+	background: grey
+}
+
+.travel_mainDiv {
+	border: 1px solid #c7c7c7;
+	padding-left: 0px;
+	padding-right: 0px;
+	float: none;
+}
+
+.travel_mainDiv img {
+	width: 100%;
+}
+
+.travel_mainDiv hr{
+	width: 230px;
+}
+
+.travel_mainDiv h5,travel_mainDiv p{
+	margin-left: 20px;
+	margin-right: 10px;
+}
+
+.movie_head{
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+}
+
+.movie_head i{
+	float: right;
+}
+
+.movie_text span{
+	color: #ff7700;
+}
+
+.movie_text p{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.environment_li{
+	margin-top: 13px;
+}
+
+.environment_li h4{
+	border-bottom: 1px solid white;
+	padding: 8px;
+}
+
+.environment_li img{
+	border-radius: 40px;
+}
+
+.environment_li p{
+	margin-top: 10px;
+}
+
+#para1,#para2,#para3,#para4,#para5{
+    padding-left: 30px;
+}
+
+#para6,#para7,#para8,#para9,#para10{
+    padding-left: 30px;
+}
+
+#h5-1{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#h5-2{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#h5-3{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#h5-4{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#h5-5{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#h5-6{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#h5-7{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#h5-8{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#h5-9{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#h5-10{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#image1,#image2{
+	border-radius: 5px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
